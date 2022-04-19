@@ -1,0 +1,15 @@
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\obj\Debug\net6.0\studentDatabase.csproj.AssemblyReference.cache
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\obj\Debug\net6.0\studentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\obj\Debug\net6.0\studentDatabase.AssemblyInfoInputs.cache
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\obj\Debug\net6.0\studentDatabase.AssemblyInfo.cs
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\obj\Debug\net6.0\studentDatabase.csproj.CoreCompileInputs.cache
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\bin\Debug\net6.0\studentDatabase.exe
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\bin\Debug\net6.0\studentDatabase.deps.json
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\bin\Debug\net6.0\studentDatabase.runtimeconfig.json
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\bin\Debug\net6.0\studentDatabase.dll
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\bin\Debug\net6.0\ref\studentDatabase.dll
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\bin\Debug\net6.0\studentDatabase.pdb
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\obj\Debug\net6.0\studentDatabase.dll
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\obj\Debug\net6.0\ref\studentDatabase.dll
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\obj\Debug\net6.0\studentDatabase.pdb
+C:\GCclasswork\c#class\studentDatabase\studentDatabase\obj\Debug\net6.0\studentDatabase.genruntimeconfig.cache
